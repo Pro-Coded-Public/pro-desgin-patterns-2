@@ -1,7 +1,5 @@
 ﻿# Adapter pattern
 
-### 
-
 The Adapter pattern is a structural design pattern that allows objects with incompatible interfaces to collaborate. It's often used in situations where you want to use a class that doesn't have the interface you need, or when you want to create a reusable class that cooperates with unrelated or unforeseen classes.
 
 In the context of .NET programming, the Adapter pattern can be particularly useful due to the extensive use of interfaces and the strong typing of the language. It can help to bridge the gap between two existing classes or interfaces that would otherwise be incompatible.

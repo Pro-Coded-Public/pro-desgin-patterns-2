@@ -1,6 +1,6 @@
 ﻿The Strategy pattern is a behavioral design pattern that allows you to define a family of algorithms, put each of them into a separate class, and make their objects interchangeable. It's particularly useful when you want to provide the user with a way to choose the algorithm at runtime.
 
-![Strategy.png](Strategy.png)
+![Strategy.png](./Strategy.png)
 
 In the context of .NET programming, the Strategy pattern can be particularly useful due to the strong typing of the language and the need for selecting an algorithm at runtime.
 
