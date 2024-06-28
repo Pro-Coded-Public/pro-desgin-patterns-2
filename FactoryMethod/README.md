@@ -1,6 +1,6 @@
 ﻿The Factory Method pattern is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
-![FactoryMethod.png](FactoryMethod.png)
+![Factory.png](Factory.png)
 
 In the context of .NET programming, the Factory Method pattern can be particularly useful due to the strong typing of the language and the need for creating objects without specifying the exact class of object that will be created.
 
